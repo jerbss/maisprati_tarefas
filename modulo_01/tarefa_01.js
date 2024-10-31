@@ -7,6 +7,7 @@ const rl = readline.createInterface({
 
 // Descomente as funções(questões) a qual deseja executar, comente as que não deseja executar
 
+//teste
 //Questao1();
 //Questao2();
 //Questao3();
