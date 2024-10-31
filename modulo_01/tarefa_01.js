@@ -5,6 +5,9 @@ const rl = readline.createInterface({
   output: process.stdout
 });
 
+//De modo a facilitar a execução(pois necessita de Node.js instalado), execute diretamente no navegador através do p5.js
+//https://editor.p5js.org/raykkai/sketches/GmGmcnUgB
+
 // Descomente as funções(questões) a qual deseja executar, comente as que não deseja executar
 
 //Questao1();
