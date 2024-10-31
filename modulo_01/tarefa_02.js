@@ -6,7 +6,6 @@ const carro = {
     cor: "preto"
   };
   
-  // Iterando sobre as propriedades do objeto carro
   for (let propriedade in carro) {
     console.log(`${propriedade}: ${carro[propriedade]}`);
   }
